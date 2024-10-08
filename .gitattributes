@@ -1,0 +1,13 @@
+# 3D models
+*.3dm                   lfs
+*.3ds                   lfs
+*.blend*                lfs
+*.c4d                   lfs
+*.collada               lfs
+*.dae                   lfs
+*.dxf                   lfs
+*.mp3 					lfs
+
+
+# archivo de configuración de proyectos del IDE Visual Studio windows
+*.sln text eol=crlf
